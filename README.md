@@ -1,4 +1,11 @@
 ### Hi there 👋
+- 🌱 Currently Im a computer science student 👨‍💻🧑‍🎓  
+Also Im a member of the student research group and we make university mars rover👾🛠️  
+In free time I try to tame the beast called Linux and make solutions to CodeWars tasks🐧🖥️
+
+- 🧠🦩 CodeWars: https://www.codewars.com/users/spaj_spaj
+
+
 
 <!--
 **Spion-Spion/Spion-Spion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
